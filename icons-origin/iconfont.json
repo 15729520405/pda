@@ -1,0 +1,1724 @@
+{
+  "id": "605370",
+  "name": "MES系统界面",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14988857",
+      "name": "图形箭头上",
+      "font_class": "icon-shape-of-up",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "14988858",
+      "name": "图形箭头下",
+      "font_class": "icon-shape-of-down",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "14988859",
+      "name": "线性箭头左",
+      "font_class": "icon-sharp-left",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "14988860",
+      "name": "线性箭头右",
+      "font_class": "icon-sharp-right",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "14360940",
+      "name": "扫描移库",
+      "font_class": "change-area-by-scan",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "14360567",
+      "name": "关联批指令",
+      "font_class": "relate-to-batchorder",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    },
+    {
+      "icon_id": "14360568",
+      "name": "打印套打标签",
+      "font_class": "multi-print-label",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "14360569",
+      "name": "角色权限查询管理",
+      "font_class": "management-of-querying-role-and-authority",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "14360571",
+      "name": "使用追踪",
+      "font_class": "use-tracking",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "14360572",
+      "name": "确认物料",
+      "font_class": "confirm-material",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "14360573",
+      "name": "事件履历",
+      "font_class": "resume-of-events",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "14360574",
+      "name": "事件管理",
+      "font_class": "the-management-of-events",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "14360575",
+      "name": "批量编辑时间",
+      "font_class": "edit-time-in-batch",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "14360576",
+      "name": "设备信号履历",
+      "font_class": "resume-of-equipment-signal",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "14360577",
+      "name": "新设备事件履历",
+      "font_class": "resume-of-equipment-events-new",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "14360578",
+      "name": "信号履历",
+      "font_class": "resume-of-signal",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "14360579",
+      "name": "信号管理",
+      "font_class": "management-of-signal",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "14360580",
+      "name": "tag错误履历",
+      "font_class": "resume-of-error-with-tag",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "13685383",
+      "name": "关于版本",
+      "font_class": "about-version",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "13685384",
+      "name": "我的",
+      "font_class": "about-me",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "13685385",
+      "name": "查询",
+      "font_class": "query",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "13685386",
+      "name": "退库",
+      "font_class": "return-to-stroage",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "13685387",
+      "name": "岗位切换",
+      "font_class": "post-switching",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "13685388",
+      "name": "Phama",
+      "font_class": "Phama",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "13685389",
+      "name": "我的IP",
+      "font_class": "ip-of-mine",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "13685390",
+      "name": "移库",
+      "font_class": "change-storage",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "13685391",
+      "name": "指令",
+      "font_class": "order",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "12568485",
+      "name": "表单配置历史",
+      "font_class": "form-config-history",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "12568486",
+      "name": "变更日志",
+      "font_class": "change-log",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "12568487",
+      "name": "菜单管理",
+      "font_class": "menu-management",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "12568488",
+      "name": "附件管理",
+      "font_class": "attach-management",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "12568489",
+      "name": "工作流配置",
+      "font_class": "workflow-config",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "12568490",
+      "name": "签名管理",
+      "font_class": "sign-management",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "12568491",
+      "name": "批准摘要报告",
+      "font_class": "summary-report",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "12568492",
+      "name": "集值代码履历",
+      "font_class": "set-value-resume",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "12568493",
+      "name": "集值代码管理",
+      "font_class": "set-value-management",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "12568494",
+      "name": "生产批次实绩",
+      "font_class": "product-batch-performance",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "12568495",
+      "name": "审核",
+      "font_class": "aduit",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "12568496",
+      "name": "确认摘要报告",
+      "font_class": "confirm-report",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "12568497",
+      "name": "新增",
+      "font_class": "plus-final",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "12568498",
+      "name": "提交摘要报告",
+      "font_class": "submit-report",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "12568499",
+      "name": "文件资源管理",
+      "font_class": "file-resource-report",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "12568500",
+      "name": "扩展属性",
+      "font_class": "extend-properity",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    },
+    {
+      "icon_id": "12568501",
+      "name": "tag点下发",
+      "font_class": "tag-issue",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "12568502",
+      "name": "填报摘要报告",
+      "font_class": "fill-report",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "12568503",
+      "name": "扩展属性管理",
+      "font_class": "extend-properity-management",
+      "unicode": "e6f4",
+      "unicode_decimal": 59124
+    },
+    {
+      "icon_id": "12568504",
+      "name": "生产物料实绩",
+      "font_class": "product-mat-performance",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "12568505",
+      "name": "启封",
+      "font_class": "unsealed",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "12568506",
+      "name": "资源管理",
+      "font_class": "resource-management",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "12568507",
+      "name": "摘要报告管理",
+      "font_class": "summary-report-manageent",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "12568508",
+      "name": "扫描",
+      "font_class": "scan",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "12568509",
+      "name": "物料量调整",
+      "font_class": "amount-of-mat",
+      "unicode": "e6fa",
+      "unicode_decimal": 59130
+    },
+    {
+      "icon_id": "12568510",
+      "name": "选择member类物料代码",
+      "font_class": "member-mat-code",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "11877430",
+      "name": "定时器",
+      "font_class": "intervalometer",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "11877431",
+      "name": "工作流管理",
+      "font_class": "workflow-management",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "11877432",
+      "name": "计算器",
+      "font_class": "calculator",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "11877433",
+      "name": "角色管理",
+      "font_class": "role-management",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "11877434",
+      "name": "表单资源配置",
+      "font_class": "forms-management",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "11877435",
+      "name": "消息管理",
+      "font_class": "message-management",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "11877436",
+      "name": "套打标签管理",
+      "font_class": "label-batch-print",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "11877437",
+      "name": "证书模板",
+      "font_class": "certificate-template",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "11877438",
+      "name": "摘要模板管理",
+      "font_class": "summary-template-management",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "11877439",
+      "name": "批次摘要报告",
+      "font_class": "batch-summary-report",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "11877440",
+      "name": "消息配置模板",
+      "font_class": "message-template",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "10752004",
+      "name": "已读",
+      "font_class": "already-read",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "10255611",
+      "name": "转批按钮",
+      "font_class": "transfer-batch",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "10119958",
+      "name": "启封",
+      "font_class": "unseal",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "8999064",
+      "name": "多选点击状态",
+      "font_class": "check-square",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "8999153",
+      "name": "多选默认状态",
+      "font_class": "uncheck-square",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "8980332",
+      "name": "取样",
+      "font_class": "sample",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "8980333",
+      "name": "取样件",
+      "font_class": "sampling-parts",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "8580776",
+      "name": "设备实例查询",
+      "font_class": "device-instance-search",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "8580777",
+      "name": "岗位批次详情",
+      "font_class": "post-batch-details",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "8580778",
+      "name": "执行设备指令",
+      "font_class": "perform-equipment-order",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "8580779",
+      "name": "执行操作指令",
+      "font_class": "perform-operate-order",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "8411731",
+      "name": "装载",
+      "font_class": "loading",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "8393676",
+      "name": "生产批次实绩",
+      "font_class": "production-batch-performance",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "8393677",
+      "name": "扫描确认标记",
+      "font_class": "scan-confirmation",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "8393678",
+      "name": "物料批次履历",
+      "font_class": "material-batch-cv",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "8393679",
+      "name": "生产物料实绩",
+      "font_class": "production-material-performance",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "7992572",
+      "name": "称量自校",
+      "font_class": "weighing-self-check",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "7992573",
+      "name": "物料称量",
+      "font_class": "material-weighing",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "7992574",
+      "name": "多批次带皮称量",
+      "font_class": "batch-with-leather-weighing",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "7992575",
+      "name": "分包称量",
+      "font_class": "sub-contracting-weighing",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "7992576",
+      "name": "多批次净重称量(l录入净重）",
+      "font_class": "batch-net-weighing-accurate",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "7992577",
+      "name": "多批次净重称量（录入皮重）",
+      "font_class": "batch-net-weighing-leather",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "7992578",
+      "name": "多批次复核称量",
+      "font_class": "batch-review-weighing",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "7992579",
+      "name": "岗位批次",
+      "font_class": "post-batches",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "7796473",
+      "name": "载具类型管理",
+      "font_class": "carrier-type-manager",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "7796474",
+      "name": "设备履历",
+      "font_class": "equ-resume",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "7796475",
+      "name": "设备指令管理",
+      "font_class": "equ-instruction-manager",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "7598014",
+      "name": "备料指令",
+      "font_class": "material-prepare",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "7598015",
+      "name": "回顾分析方案",
+      "font_class": "batch-data-review",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "7597323",
+      "name": "物料履历",
+      "font_class": "material-record",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "7597324",
+      "name": "设备指令",
+      "font_class": "eqm-order",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "7597325",
+      "name": "搬运指令",
+      "font_class": "trans-order",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "7597326",
+      "name": "物料批次追溯",
+      "font_class": "material-batch-tracking",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "6702558",
+      "name": "批指令详情",
+      "font_class": "batcher-order-detail",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "6702569",
+      "name": "取消",
+      "font_class": "abolish",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "101688",
+      "name": "YQ-关机",
+      "font_class": "neg-shutdown",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "5432895",
+      "name": "取消",
+      "font_class": "neg-call-off",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "5432896",
+      "name": "未知",
+      "font_class": "neg-unknown",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "5432897",
+      "name": "初始",
+      "font_class": "neg-inital",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "5432898",
+      "name": "再激活",
+      "font_class": "neg-re-active",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "5432901",
+      "name": "不可执行",
+      "font_class": "neg-non-exe",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "5432903",
+      "name": "生产中",
+      "font_class": "neg-manu-in-process",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "5432904",
+      "name": "执行中",
+      "font_class": "neg-executing",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "5432905",
+      "name": "生产终止",
+      "font_class": "neg-manu-end",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "5432906",
+      "name": "终止",
+      "font_class": "neg-stop",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "5432907",
+      "name": "中断",
+      "font_class": "neg-interrupt",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "5432908",
+      "name": "执行完",
+      "font_class": "neg-finish-exe",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "5433288",
+      "name": "待执行",
+      "font_class": "neg-wait-exe",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "5386923",
+      "name": "未知",
+      "font_class": "unknown",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "5386924",
+      "name": "取消",
+      "font_class": "call-off",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "5386925",
+      "name": "初始",
+      "font_class": "inital",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "5386926",
+      "name": "再激活",
+      "font_class": "re-active",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "5386927",
+      "name": "不可执行",
+      "font_class": "non-exe",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "5386928",
+      "name": "待执行",
+      "font_class": "wait-exe",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "5386929",
+      "name": "执行完",
+      "font_class": "finish-exe",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "5386930",
+      "name": "终止",
+      "font_class": "stop",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "5386931",
+      "name": "中断",
+      "font_class": "interrupt",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "5386932",
+      "name": "生产中",
+      "font_class": "manu-in-process",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "5386933",
+      "name": "执行中",
+      "font_class": "executing",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "5386934",
+      "name": "生产终止",
+      "font_class": "manu-end",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "5385249",
+      "name": "减号",
+      "font_class": "minus-square",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "5385250",
+      "name": "药品种类",
+      "font_class": "type-drugs",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "5385251",
+      "name": "加号",
+      "font_class": "plus-square",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "5385252",
+      "name": "批次号",
+      "font_class": "batch-no",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "5385253",
+      "name": "物料件号",
+      "font_class": "item-no",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "5097103",
+      "name": "取样",
+      "font_class": "sampling",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "5078708",
+      "name": "减号",
+      "font_class": "minus",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "5078709",
+      "name": "加号",
+      "font_class": "plus",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "5062971",
+      "name": "流转",
+      "font_class": "transfer",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "5062972",
+      "name": "流出",
+      "font_class": "flow-out",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "5062973",
+      "name": "流入",
+      "font_class": "flow-in",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "5062974",
+      "name": "关联用户组",
+      "font_class": "assoc-user-group",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "5062975",
+      "name": "权限管理",
+      "font_class": "auth-mng",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "5062976",
+      "name": "用户组成员管理",
+      "font_class": "user-group-mng",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "5062977",
+      "name": "目标产品",
+      "font_class": "target-product",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "5062978",
+      "name": "目标批次",
+      "font_class": "target-batch",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "5062979",
+      "name": "产出物料",
+      "font_class": "mat-output",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "5062980",
+      "name": "取出物料",
+      "font_class": "mat-takeout",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "5062981",
+      "name": "流入物料",
+      "font_class": "mat-input",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "5062982",
+      "name": "重量单位kg/ea",
+      "font_class": "weight-unit",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "5062983",
+      "name": "物料流",
+      "font_class": "mat-flow",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "5062984",
+      "name": "物料批次追溯",
+      "font_class": "mat-batch-review",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "5062985",
+      "name": "批次数据审查",
+      "font_class": "batch-data-audit",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "5062986",
+      "name": "生成报告",
+      "font_class": "report",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "5062987",
+      "name": "取消关联用户组",
+      "font_class": "cancel-ass-usergroup",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "4636943",
+      "name": "班组管理",
+      "font_class": "team-manage",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "4636944",
+      "name": "绩效管理",
+      "font_class": "performance-manage",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "4636945",
+      "name": "电子批记录",
+      "font_class": "electron-batch-record",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "4636946",
+      "name": "班次管理",
+      "font_class": "classes-manage",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "4636947",
+      "name": "工作日历",
+      "font_class": "work-calendar",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "4636948",
+      "name": "接口履历-18",
+      "font_class": "port-record",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "4636949",
+      "name": "工艺管理-19",
+      "font_class": "process-management",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "4636950",
+      "name": "设备管理",
+      "font_class": "equipment-management",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "4636951",
+      "name": "设备模板配置-04",
+      "font_class": "equip-template-config",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "4636952",
+      "name": "物料操作履历-03",
+      "font_class": "materiel-operation-record",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "4636953",
+      "name": "用户登录履历-17",
+      "font_class": "users-login-record",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "4636954",
+      "name": "排版策略管理-10",
+      "font_class": "scheduling-strategy",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "4636955",
+      "name": "物料批次管理-02",
+      "font_class": "materiel-batch-manage",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "4636956",
+      "name": "系统参数配置-16",
+      "font_class": "show-mg-system-parameter",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "4636957",
+      "name": "物料信息管理-01",
+      "font_class": "materials-information",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "4636958",
+      "name": "数据权限管理-06",
+      "font_class": "data-permission",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "4636959",
+      "name": "用户管理",
+      "font_class": "user-management",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "4400229",
+      "name": "BOE清单",
+      "font_class": "boe-list",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "4400230",
+      "name": "物料流转",
+      "font_class": "materiel-flow",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "4400231",
+      "name": "工艺参数",
+      "font_class": "process-parameter",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "4388286",
+      "name": "图标",
+      "font_class": "icon",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "4388736",
+      "name": "葡萄糖注射液",
+      "font_class": "glucose-injection",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "4388967",
+      "name": "基本信息线性",
+      "font_class": "basic-information-linear",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "4305974",
+      "name": "版本流",
+      "font_class": "version",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "4305975",
+      "name": "BOM清单",
+      "font_class": "bom-list",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "4305976",
+      "name": "编辑签名",
+      "font_class": "edit",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "4305977",
+      "name": "变更",
+      "font_class": "change",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "4305978",
+      "name": "标签管理",
+      "font_class": "lable-management",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "4305979",
+      "name": "仓库系统",
+      "font_class": "warehouse-system",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "4305980",
+      "name": "测试",
+      "font_class": "test",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "4305981",
+      "name": "程序管理",
+      "font_class": "program-management",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "4305982",
+      "name": "处理偏差",
+      "font_class": "hand-deviations",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "4305983",
+      "name": "查看",
+      "font_class": "view",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "4305984",
+      "name": "操作",
+      "font_class": "operate",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "4305985",
+      "name": "称量报告",
+      "font_class": "weighing-report",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "4305986",
+      "name": "代码",
+      "font_class": "code",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "4305987",
+      "name": "程序步骤",
+      "font_class": "program-steps",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "4305988",
+      "name": "打印",
+      "font_class": "print",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "4305989",
+      "name": "度量管理",
+      "font_class": "measurn-managment",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "4305991",
+      "name": "返回重置",
+      "font_class": "return",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "4305992",
+      "name": "分析导航",
+      "font_class": "analysis-nav",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "4305993",
+      "name": "关闭失效",
+      "font_class": "shut-down",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "4305994",
+      "name": "工艺路径",
+      "font_class": "process-path",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "4305995",
+      "name": "工位设备",
+      "font_class": "station-equ",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "4305996",
+      "name": "管理员",
+      "font_class": "admin",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "4305997",
+      "name": "回顾分析",
+      "font_class": "review-analysis",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "4305998",
+      "name": "工位管理",
+      "font_class": "station-management",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "4306000",
+      "name": "拷贝",
+      "font_class": "copy",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "4306001",
+      "name": "历史",
+      "font_class": "history",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "4306002",
+      "name": "流入新增项",
+      "font_class": "inflow-new-items",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "4306003",
+      "name": "工位组",
+      "font_class": "station-group",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "4306004",
+      "name": "配方管理",
+      "font_class": "recipe-management",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "4306006",
+      "name": "流出新增项",
+      "font_class": "outflow-new-items",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "4306007",
+      "name": "批报告",
+      "font_class": "batch-report",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "4306008",
+      "name": "批次称量",
+      "font_class": "batch-weighing",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "4306009",
+      "name": "批次管理",
+      "font_class": "batch-management",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "4306010",
+      "name": "批次分析",
+      "font_class": "batch-analysis",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "4306011",
+      "name": "批指令",
+      "font_class": "batch-instruction",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "4306012",
+      "name": "偏差",
+      "font_class": "deviation",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "4306013",
+      "name": "批次管理线性",
+      "font_class": "batch-management-linear",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "4306014",
+      "name": "权限管理",
+      "font_class": "permis-management",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "4306015",
+      "name": "日志管理",
+      "font_class": "log-management",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "4306016",
+      "name": "删除",
+      "font_class": "delect",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "4306017",
+      "name": "设备操作履历",
+      "font_class": "equ-operation-resume",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "4306018",
+      "name": "商家管理",
+      "font_class": "business-management",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "4306019",
+      "name": "设备类",
+      "font_class": "equ-class",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "4306020",
+      "name": "设备设施",
+      "font_class": "equ-facilities",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "4306021",
+      "name": "设备事件履历",
+      "font_class": "equ-event-resume",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "4306022",
+      "name": "审计追踪",
+      "font_class": "audit-trail",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "4306023",
+      "name": "设备实例",
+      "font_class": "device-instance",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "4306024",
+      "name": "设备状态图",
+      "font_class": "device-state-diagram",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "4306025",
+      "name": "审计追踪线性",
+      "font_class": "audit-trail-linear",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "4306026",
+      "name": "生效",
+      "font_class": "effect",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "4306027",
+      "name": "升级",
+      "font_class": "upgrade",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "4306028",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "4306029",
+      "name": "设备监控管理",
+      "font_class": "equ-monitoring-management",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "4306030",
+      "name": "刷新",
+      "font_class": "refresh",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "4306031",
+      "name": "事件管理",
+      "font_class": "event-management",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "4306032",
+      "name": "添加",
+      "font_class": "add-icon",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "4306033",
+      "name": "跳转",
+      "font_class": "jump",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "4306034",
+      "name": "物料流转履历",
+      "font_class": "material-turnover-resume",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "4306035",
+      "name": "物料管理",
+      "font_class": "material-management",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "4306036",
+      "name": "物料件",
+      "font_class": "material-parts",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "4306037",
+      "name": "下拉箭头",
+      "font_class": "dropdown",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "4306039",
+      "name": "详情",
+      "font_class": "details",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "4306041",
+      "name": "原辅料信息查询",
+      "font_class": "raw-material-info",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "4306042",
+      "name": "系统管理",
+      "font_class": "system-management",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "4306043",
+      "name": "载具管理",
+      "font_class": "garrier-management",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "4306044",
+      "name": "质量管理",
+      "font_class": "quality-management",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "4306045",
+      "name": "终端管理",
+      "font_class": "terminal-management",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "4306047",
+      "name": "暂停终止",
+      "font_class": "time-out",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "4306048",
+      "name": "注销",
+      "font_class": "cancel",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "4306255",
+      "name": "主页",
+      "font_class": "home",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "4306256",
+      "name": "用户管理线性",
+      "font_class": "user-management-linear",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "4306859",
+      "name": "用户组管理",
+      "font_class": "user-group",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "4306863",
+      "name": "对比分析",
+      "font_class": "comparative-analysis",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    }
+  ]
+}
